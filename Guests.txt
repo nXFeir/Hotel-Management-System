@@ -1,0 +1,10 @@
+G0001, Ali, 800524554236, Malaysia, Ali@gmail.com, 0124438564
+G0002, Ben, 900533332434, Mexico, Ben@gmail.com, 0124433456
+G0003, Jinny, 12342435345, United States, Jinny@gmail.com, 01441341244
+G0004, Ligma, 95122111104365, Africa, Ball@gmail,com, 0126942011
+G0005, KennyS, 12347425357, British, Kenny@gmail.com, 01266412341
+G0006, Dio, 85473658843, Japan, Dio@umail.com, 01264421234
+G0007, James, 705523523457, Malaysia, James@gmail.com, 0125436466
+G0008, Wayne, 13241245674, Malaysia, Wayne@gmail.com, 0123425412
+G0009, Hoo, 1923451234, Malaysia, Hoo@gmail.com, 012345524
+G0010, Clarisa, 7055235231436, Malaysia, Clara@gmail.com, 0132452346
